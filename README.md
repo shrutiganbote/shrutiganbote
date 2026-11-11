@@ -22,7 +22,7 @@ Software engineer in Japan working on in-vehicle (Android) software: bug investi
 
 ## Resume
 
-職務経歴書（日本語）: [resume] https://github.com/shrutiganbote/resume
+職務経歴書（日本語）: [resume](https://github.com/shrutiganbote/resume)
 
 <!--
 ## Projects
